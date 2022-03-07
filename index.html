@@ -6,6 +6,7 @@
         body {
          backdrop-filter: blur(10px)
         }
+    </style>
 </head>
 <body background="https://www.uhdpaper.com/2021/09/yae-miko-genshin-impact-game-4k-5631c.html">
 
