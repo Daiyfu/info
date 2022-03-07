@@ -2,8 +2,12 @@
 <html>
 <head>
     <title>Idek</title>
+    <style>
+        body {
+         backdrop-filter: blur(10px)
+        }
 </head>
-<body>
+<body background="https://www.uhdpaper.com/2021/09/yae-miko-genshin-impact-game-4k-5631c.html">
 
   <h1>Comp. paginii web:</h1>
   <br>html
