@@ -1,9 +1,0 @@
-html {
-    backdrop-filter: blur(2px);
-    filter: grayscale(50%);
-    filter:brightness(75%)
-}
-
-body {
-    color: rgb(12 321 213);
-}
